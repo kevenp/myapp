@@ -166,4 +166,11 @@ input {
   padding: 15px;
 }
 
+#logout {
+  cursor: default;
+  &:hover {
+    background-color: transparent;
+  }
+}
+
 
